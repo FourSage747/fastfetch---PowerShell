@@ -6,5 +6,7 @@
 
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
+```
+```powershell
 .\install.ps1
 ```
