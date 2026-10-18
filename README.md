@@ -1,14 +1,10 @@
-\### Як встановити
+### How to Install
 
-1\. Звантажте цей репозиторій та розпакуйте його.
+1. Download this repository and extract it.
+2. Open PowerShell as Administrator (to allow script execution if required).
+3. Navigate to the extracted folder and run the following commands:
 
-2\. Відкрийте PowerShell від імені адміністратора (щоб дозволити виконання скриптів, якщо це потрібно).
-
-3\. Перейдіть у папку з файлами і виконайте команду:
-
-&#x20;  ```powershell
-
-&#x20;  Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
-
-&#x20;  .\\install.ps1
-
+```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
+.\install.ps1
+```
