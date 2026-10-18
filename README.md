@@ -10,3 +10,4 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
 ```powershell
 .\install.ps1
 ```
+<img width="896" height="491" alt="image" src="https://github.com/user-attachments/assets/c182f642-0173-46a9-9ad0-2a253f981dc8" />
